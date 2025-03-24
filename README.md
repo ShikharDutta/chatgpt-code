@@ -1,1 +1,1 @@
-# chatgpt-code-archieve
+# chatgpt-code
